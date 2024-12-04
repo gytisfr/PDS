@@ -1,0 +1,1601 @@
+{
+    "history": {
+        "templates": {
+            "hired": {
+                "rank": "Trainee Delivery Driver",
+                "division": "Management/Human Resources/Delivery",
+                "notes": "Additional Information",
+                "by": 103956751
+            },
+            "ranked": {
+                "beforerank": "Trainee Delivery Driver",
+                "afterrank": "Delivery Driver",
+                "type": "Promotion/Demotion",
+                "notes": "Additional Information",
+                "by": 103956751
+            },
+            "warned": {
+                "type": "Verbal/Record",
+                "notes": "Additional Information",
+                "by": 103956751
+            },
+            "terminated": {
+                "type": "Honourable/General/Dishonourable/Blacklist",
+                "notes": "Additional Information",
+                "by": 103956751
+            },
+            "packages": {
+                "amount": 10,
+                "startsc": "https://i.gyazo.com/14c19bd842a764b59061603f03d5853d.png",
+                "endsc": "https://i.gyazo.com/14c19bd842a764b59061603f03d5853d.png",
+                "verified": 103956751
+            }
+        },
+        "52172183": {
+            "employment": {
+                "08/18/2023 20:34:49": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Management/Human Resources/Delivery",
+                        "by": 50546640
+                    }
+                },
+                "09/05/2023 18:56:26": {
+                    "ranked": {
+                        "beforerank": "Trainee Delivery Driver",
+                        "afterrank": "Senior Delivery Driver",
+                        "type": "Promotion",
+                        "by": 50546640
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "103956751": {
+            "employment": {
+                "09/05/2023 17:31:03": {
+                    "hired": {
+                        "rank": "General Manager",
+                        "division": "Management",
+                        "by": 50546640
+                    }
+                }
+            },
+            "packages": {
+                "total": 110,
+                "11/02/2023 19:34:17": {
+                    "amount": 110,
+                    "startsc": "https://i.gyazo.com/9da227eef7f00f03c588583338edca9f.jpg",
+                    "endsc": "https://i.gyazo.com/9da227eef7f00f03c588583338edca9f.jpg",
+                    "verified": 103956751
+                },
+                "12/16/2023 04:03:00": {
+                    "amount": 20,
+                    "startsc": "https://i.gyazo.com/717e3bff9cf86aa58fb9a5f598e5fe73.jpg",
+                    "endsc": "https://i.gyazo.com/1cb0138fe76954295b8598a69ebbf69b.jpg",
+                    "verified": false
+                },
+                "12/17/2023 21:54:08": {
+                    "amount": 10,
+                    "startsc": "https://i.gyazo.com/1cb0138fe76954295b8598a69ebbf69b.jpg",
+                    "endsc": "https://i.gyazo.com/d7edc70382a8200585f601f4aed9a191.jpg",
+                    "verified": false
+                }
+            },
+            "division": "Management"
+        },
+        "1118551761": {
+            "employment": {
+                "09/06/2023 21:57:51": {
+                    "hired": {
+                        "rank": "Manager",
+                        "division": "Human Resources",
+                        "by": 103956751
+                    }
+                },
+                "12/17/2023 05:26:52": {
+                    "ranked": {
+                        "beforerank": "Manager",
+                        "afterrank": "Senior Delivery Driver",
+                        "type": "Demotion",
+                        "notes": "Stepped down (as per request)",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Human Resources"
+        },
+        "496998757": {
+            "employment": {
+                "09/14/2023 05:42:16": {
+                    "hired": {
+                        "rank": "Manager",
+                        "division": "Delivery",
+                        "by": 103956751
+                    }
+                },
+                "12/17/2023 17:25:29": {
+                    "ranked": {
+                        "beforerank": "Manager",
+                        "afterrank": "Delivery Driver",
+                        "type": "Demotion",
+                        "notes": "Inactivity",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "53874678": {
+            "employment": {
+                "09/16/2023 00:13:28": {
+                    "hired": {
+                        "rank": "Supervisor",
+                        "division": "Delivery",
+                        "by": 103956751
+                    }
+                },
+                "12/17/2023 17:35:10": {
+                    "ranked": {
+                        "beforerank": "Supervisor",
+                        "afterrank": "Manager",
+                        "type": "Promotion",
+                        "notes": "Acting Regional Delivery Manager (Trial) until the 24th",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "42000967": {
+            "employment": {
+                "09/30/2023 16:37:06": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 103956751
+                    }
+                },
+                "10/01/2023 22:18:34": {
+                    "ranked": {
+                        "beforerank": "Trainee Delivery Driver",
+                        "afterrank": "Delivery Driver",
+                        "type": "Promotion",
+                        "notes": "Completed Training",
+                        "by": 496998757
+                    }
+                },
+                "11/03/2023 03:13:53": {
+                    "ranked": {
+                        "beforerank": "Delivery Driver",
+                        "afterrank": "Senior Delivery Driver",
+                        "type": "Promotion",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0,
+                "11/03/2023 03:12:02": {
+                    "amount": 270,
+                    "startsc": "https://prnt.sc/IAhlVUOrxs7j",
+                    "endsc": "https://prnt.sc/IAhlVUOrxs7j",
+                    "verified": false
+                },
+                "11/03/2023 08:52:18": {
+                    "amount": 40,
+                    "startsc": "https://prnt.sc/dy1M4u6ZiGsY",
+                    "endsc": "https://prnt.sc/dy1M4u6ZiGsY",
+                    "verified": false
+                }
+            },
+            "division": "Delivery"
+        },
+        "3696333": {
+            "employment": {
+                "09/30/2023 16:37:26": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 103956751
+                    }
+                },
+                "10/01/2023 22:18:34": {
+                    "ranked": {
+                        "beforerank": "Trainee Delivery Driver",
+                        "afterrank": "Delivery Driver",
+                        "type": "Promotion",
+                        "notes": "Completed Training",
+                        "by": 53874678
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "241853519": {
+            "employment": {
+                "09/30/2023 18:58:53": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 103956751
+                    }
+                },
+                "10/01/2023 22:18:34": {
+                    "ranked": {
+                        "beforerank": "Trainee Delivery Driver",
+                        "afterrank": "Delivery Driver",
+                        "type": "Promotion",
+                        "notes": "Completed Training",
+                        "by": 103956751
+                    }
+                },
+                "11/04/2023 18:07:37": {
+                    "ranked": {
+                        "beforerank": "Delivery Driver",
+                        "afterrank": "Senior Delivery Driver",
+                        "type": "Promotion",
+                        "by": 53874678
+                    }
+                }
+            },
+            "packages": {
+                "total": 60,
+                "11/03/2023 00:19:17": {
+                    "amount": 60,
+                    "startsc": "https://gyazo.com/c500e7d78359205090aa0ea7b4a020d0",
+                    "endsc": "https://gyazo.com/c500e7d78359205090aa0ea7b4a020d0",
+                    "verified": 103956751
+                },
+                "11/03/2023 03:52:52": {
+                    "amount": 10,
+                    "startsc": "https://gyazo.com/153530b92f788f47629e7a1660cd69f4",
+                    "endsc": "https://gyazo.com/153530b92f788f47629e7a1660cd69f4",
+                    "verified": false
+                },
+                "11/03/2023 03:56:48": {
+                    "amount": 10,
+                    "startsc": "https://gyazo.com/153530b92f788f47629e7a1660cd69f4",
+                    "endsc": "https://media.discordapp.net/attachments/1145424593213988970/1169847261275111464/RobloxScreenShot20231102_204555432.png?ex=6556e429&is=65446f29&hm=9ec1fcd6b7b36b5125d757fa007145070d8410785b1587b91fc8f77efed832c1&=&width=1153&height=606",
+                    "verified": false
+                },
+                "11/03/2023 23:39:57": {
+                    "amount": 10,
+                    "startsc": "https://gyazo.com/80ffe35350ec93f1f160f49192feccf1",
+                    "endsc": "https://gyazo.com/fc70fa09da48f19dac28bbc6069c4841",
+                    "verified": false
+                },
+                "11/04/2023 00:01:40": {
+                    "amount": 10,
+                    "startsc": "https://gyazo.com/fc70fa09da48f19dac28bbc6069c4841",
+                    "endsc": "https://gyazo.com/12c1ae795156ffbfa4c6adecff57ef17",
+                    "verified": false
+                },
+                "11/04/2023 00:40:10": {
+                    "amount": 7,
+                    "startsc": "https://gyazo.com/439212fc390ead357be86be07bd8bef3",
+                    "endsc": "Didn't get any has I had to leave fast as people were going to kill me",
+                    "verified": false
+                },
+                "11/04/2023 02:01:39": {
+                    "amount": 13,
+                    "startsc": "https://gyazo.com/526dc27ba7a335fba2e5cd50a04befca",
+                    "endsc": "https://gyazo.com/473e881ae7cb917d362ce761bb003df2",
+                    "verified": false
+                },
+                "11/04/2023 06:58:36": {
+                    "amount": 10,
+                    "startsc": "https://gyazo.com/f7c023a8aba76b3145d717de9b10844d",
+                    "endsc": "https://gyazo.com/3491ab9eb5809286f127ba0d67fef442",
+                    "verified": false
+                },
+                "11/04/2023 22:01:09": {
+                    "amount": 9,
+                    "startsc": "Forgot to",
+                    "endsc": "Game Disconnected",
+                    "verified": false
+                },
+                "11/04/2023 22:24:07": {
+                    "amount": 10,
+                    "startsc": "forgor",
+                    "endsc": "https://gyazo.com/c4855205dab2628e3c5f8eeb08fbe5a9",
+                    "verified": false
+                }
+            },
+            "division": "Delivery"
+        },
+        "156943005": {
+            "employment": {
+                "11/02/2023 18:53:19": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 1118551761
+                    }
+                },
+                "11/03/2023 03:34:01": {
+                    "ranked": {
+                        "beforerank": "Trainee Delivery Driver",
+                        "afterrank": "Delivery Driver",
+                        "type": "Promotion",
+                        "notes": "passed exam",
+                        "by": 53874678
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "62419630": {
+            "employment": {
+                "11/02/2023 18:54:33": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 1118551761
+                    }
+                },
+                "11/02/2023 22:02:47": {
+                    "ranked": {
+                        "beforerank": "Trainee Delivery Driver",
+                        "afterrank": "Delivery Driver",
+                        "type": "Promotion",
+                        "notes": "Completed Training",
+                        "by": 53874678
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "297445903": {
+            "employment": {
+                "11/02/2023 18:54:52": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 1118551761
+                    }
+                },
+                "11/05/2023 04:16:55": {
+                    "ranked": {
+                        "beforerank": "Trainee Delivery Driver",
+                        "afterrank": "Delivery Driver",
+                        "type": "Promotion",
+                        "notes": "Completed Training",
+                        "by": 103956751
+                    }
+                },
+                "12/17/2023 17:34:41": {
+                    "ranked": {
+                        "beforerank": "Delivery Driver",
+                        "afterrank": "Manager",
+                        "type": "Promotion",
+                        "notes": "Acting Human Resources Manager (Trial) until the 23rd",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "493786": {
+            "employment": {
+                "11/02/2023 18:55:06": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 1118551761
+                    }
+                },
+                "11/04/2023 01:58:59": {
+                    "terminated": {
+                        "type": "Dishonourable",
+                        "notes": "Ignorance, Disrespect, Ego",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "510740": {
+            "employment": {
+                "11/02/2023 18:55:14": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 1118551761
+                    }
+                },
+                "12/10/2023 14:40:53": {
+                    "terminated": {
+                        "type": "General",
+                        "notes": "Didn't complete training",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "368237517": {
+            "employment": {
+                "11/02/2023 18:55:20": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 1118551761
+                    }
+                },
+                "11/02/2023 22:03:26": {
+                    "ranked": {
+                        "beforerank": "Trainee Delivery Driver",
+                        "afterrank": "Delivery Driver",
+                        "type": "Promotion",
+                        "notes": "Completed Training",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 10,
+                "11/02/2023 21:31:23": {
+                    "amount": 10,
+                    "startsc": "https://gyazo.com/9783a7d10ae28e8fc1c8a8fd57f854fd",
+                    "endsc": "https://gyazo.com/9783a7d10ae28e8fc1c8a8fd57f854fd",
+                    "verified": 103956751
+                },
+                "11/03/2023 00:34:29": {
+                    "amount": 20,
+                    "startsc": "https://gyazo.com/9783a7d10ae28e8fc1c8a8fd57f854fd",
+                    "endsc": "https://gyazo.com/a5547ecdce295fccaae8846eda9a611e",
+                    "verified": false
+                },
+                "11/05/2023 21:55:55": {
+                    "amount": 31,
+                    "startsc": "https://gyazo.com/678b1d91c815e8e71ba4498092820608",
+                    "endsc": "https://gyazo.com/71f261274c93ed07f11d6798f859c511",
+                    "verified": false
+                },
+                "11/06/2023 08:52:13": {
+                    "amount": 41,
+                    "startsc": "https://gyazo.com/71f261274c93ed07f11d6798f859c511",
+                    "endsc": "https://gyazo.com/0bfe91fbd9b8fc3598123aa74a48ea14",
+                    "verified": false
+                },
+                "11/07/2023 19:25:00": {
+                    "amount": 51,
+                    "startsc": "forgot",
+                    "endsc": "https://gyazo.com/2b5f74597d5b08538afaf18817a64eff",
+                    "verified": false
+                }
+            },
+            "division": "Delivery"
+        },
+        "5491154": {
+            "employment": {
+                "11/02/2023 18:55:27": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 1118551761
+                    }
+                },
+                "11/03/2023 09:18:02": {
+                    "ranked": {
+                        "beforerank": "Trainee Delivery Driver",
+                        "afterrank": "Delivery Driver",
+                        "type": "Promotion",
+                        "notes": "Completed Training",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0,
+                "11/03/2023 01:45:47": {
+                    "amount": 10,
+                    "startsc": "https://cdn.discordapp.com/attachments/861130111884722186/1169792812422791169/Screen_Shot_2023-11-02_at_4.24.22_PM.png?ex=6556b174&is=65443c74&hm=980521fae2de5d569a3a023d3622d43f6ff7546ea6de45a0e44f1a8b7c80d9cc&",
+                    "endsc": "https://cdn.discordapp.com/attachments/861130111884722186/1169792867645005894/Screen_Shot_2023-11-02_at_5.01.12_PM.png?ex=6556b181&is=65443c81&hm=2c94c1be8b8057672073b99f1aca1fdae282e9559f2fb3d1b5b102bb520dd69d&",
+                    "verified": false
+                },
+                "11/07/2023 17:02:45": {
+                    "amount": 10,
+                    "startsc": "https://cdn.discordapp.com/attachments/861130111884722186/1171488008084652052/image.png?ex=655cdc3a&is=654a673a&hm=46abea28816e90471ff4eb7108a6000c836a606eece7199666d0dc57bb55e148&",
+                    "endsc": "https://cdn.discordapp.com/attachments/861130111884722186/1171494775191507074/image.png?ex=655ce287&is=654a6d87&hm=4762fc2dfa5a2ddafd071e3dce9fec94b242ec5f706e31401d4c62974222e6a2&",
+                    "verified": false
+                },
+                "12/09/2023 06:41:58": {
+                    "amount": 10,
+                    "startsc": "https://cdn.discordapp.com/attachments/861130111884722186/1181335459843022868/image.png?ex=6580af61&is=656e3a61&hm=531fd6917d145c39f2592f77089f95b7034e99820c735a5159140e5b3fabf22b&",
+                    "endsc": "https://cdn.discordapp.com/attachments/861130111884722186/1181342108754399364/image.png?ex=6580b593&is=656e4093&hm=e0c47bce7f2ab97db4ee3805a95d7724f2b42ff7d741efbd9d8129be0f09ee26&",
+                    "verified": false
+                },
+                "12/17/2023 21:40:57": {
+                    "amount": 50,
+                    "startsc": "https://cdn.discordapp.com/attachments/861130111884722186/1186059571534508153/Screen_Shot_2023-12-17_at_12.37.57_PM.png?ex=6591df0d&is=657f6a0d&hm=fa81af84834a42ebece6fec8b2bbe1fd483d7057524a02dc26987d62d34b166b&",
+                    "endsc": "https://cdn.discordapp.com/attachments/861130111884722186/1186059571014406226/Screen_Shot_2023-12-17_at_1.35.15_PM.png?ex=6591df0d&is=657f6a0d&hm=e2c652190313eacee77fee9792559065a5afb1360e28aab11588ce2d6f762b3d&",
+                    "verified": false
+                }
+            },
+            "division": "Delivery"
+        },
+        "54038333": {
+            "employment": {
+                "11/02/2023 18:55:33": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 1118551761
+                    }
+                },
+                "11/04/2023 00:24:53": {
+                    "ranked": {
+                        "beforerank": "Trainee Delivery Driver",
+                        "afterrank": "Delivery Driver",
+                        "type": "Promotion",
+                        "notes": "Completed Training",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "151952500": {
+            "employment": {
+                "11/02/2023 18:55:42": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 1118551761
+                    }
+                },
+                "12/17/2023 23:23:18": {
+                    "ranked": {
+                        "beforerank": "Trainee Delivery Driver",
+                        "afterrank": "Delivery Driver",
+                        "type": "Promotion",
+                        "notes": "Completed Training",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "606746170": {
+            "employment": {
+                "11/02/2023 18:55:59": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 1118551761
+                    }
+                },
+                "11/03/2023 01:54:49": {
+                    "ranked": {
+                        "beforerank": "Trainee Delivery Driver",
+                        "afterrank": "Delivery Driver",
+                        "type": "Promotion",
+                        "notes": "Passed exam",
+                        "by": 53874678
+                    }
+                }
+            },
+            "packages": {
+                "total": 0,
+                "11/03/2023 01:50:30": {
+                    "amount": 10,
+                    "startsc": "forgot to take one",
+                    "endsc": "https://media.discordapp.net/attachments/1169790389146894446/1169814762306150440/image.png?ex=6556c5e5&is=654450e5&hm=ac9c2965d57b3b239a608eb6befb03e7400a4735e8667a562c37d96383d4dece&=&width=1148&height=616",
+                    "verified": false
+                },
+                "11/03/2023 02:22:13": {
+                    "amount": 20,
+                    "startsc": "https://media.discordapp.net/attachments/759286993200480286/1169819091767406703/image.png?ex=6556c9ed&is=654454ed&hm=a17ad9977dfbc22001b668a16bfafd460e629a5ddc36621a5e619ec9f028b092&=&width=1090&height=616",
+                    "endsc": "https://media.discordapp.net/attachments/759286993200480286/1169822936669110352/image.png?ex=6556cd82&is=65445882&hm=fd17217c4021fb4b07ee0cf8e1f067893c6fcab2143cba4eb95aa8de5709b3d0&=&width=1146&height=616",
+                    "verified": false
+                },
+                "11/03/2023 02:28:20": {
+                    "amount": 20,
+                    "startsc": "https://media.discordapp.net/attachments/759286993200480286/1169819091767406703/image.png?ex=6556c9ed&is=654454ed&hm=a17ad9977dfbc22001b668a16bfafd460e629a5ddc36621a5e619ec9f028b092&=&width=1090&height=616",
+                    "endsc": "https://media.discordapp.net/attachments/759286993200480286/1169822936669110352/image.png?ex=6556cd82&is=65445882&hm=fd17217c4021fb4b07ee0cf8e1f067893c6fcab2143cba4eb95aa8de5709b3d0&=&width=1146&height=616",
+                    "verified": false
+                }
+            },
+            "division": "Delivery"
+        },
+        "1695521240": {
+            "employment": {
+                "11/02/2023 18:56:11": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 1118551761
+                    }
+                },
+                "12/10/2023 14:41:03": {
+                    "terminated": {
+                        "type": "General",
+                        "notes": "Didn't complete training",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "23425001": {
+            "employment": {
+                "11/02/2023 18:56:25": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 1118551761
+                    }
+                },
+                "11/03/2023 09:18:13": {
+                    "ranked": {
+                        "beforerank": "Trainee Delivery Driver",
+                        "afterrank": "Delivery Driver",
+                        "type": "Promotion",
+                        "notes": "Completed Training",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0,
+                "11/06/2023 12:18:30": {
+                    "amount": 40,
+                    "startsc": "https://gyazo.com/120b607da7ad9de5ffd1503ec3dffa21",
+                    "endsc": "https://gyazo.com/8594e3dec97c2361f51c18b22a4e86e5",
+                    "verified": false
+                },
+                "11/07/2023 07:11:37": {
+                    "amount": 60,
+                    "startsc": "https://gyazo.com/6fede5eefb4538eb766c006364d54365",
+                    "endsc": "https://gyazo.com/6fede5eefb4538eb766c006364d54365",
+                    "verified": false
+                },
+                "11/07/2023 10:06:45": {
+                    "amount": 90,
+                    "startsc": "https://gyazo.com/2909a3faac01dd19c6337faa3a790d26",
+                    "endsc": "https://gyazo.com/2909a3faac01dd19c6337faa3a790d26",
+                    "verified": false
+                },
+                "11/08/2023 04:15:07": {
+                    "amount": 100,
+                    "startsc": "https://gyazo.com/8f3d8063f924ab76025eadf9cf8a601d",
+                    "endsc": "https://gyazo.com/8f3d8063f924ab76025eadf9cf8a601d",
+                    "verified": false
+                }
+            },
+            "division": "Delivery"
+        },
+        "52404157": {
+            "employment": {
+                "11/02/2023 18:56:41": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 1118551761
+                    }
+                },
+                "11/04/2023 01:28:59": {
+                    "ranked": {
+                        "beforerank": "Trainee Delivery Driver",
+                        "afterrank": "Delivery Driver",
+                        "type": "Promotion",
+                        "notes": "Completed Training",
+                        "by": 103956751
+                    }
+                },
+                "11/04/2023 01:38:50": {
+                    "ranked": {
+                        "beforerank": "Delivery Driver",
+                        "afterrank": "Supervisor",
+                        "type": "Promotion",
+                        "by": 1118551761
+                    }
+                },
+                "11/04/2023 01:41:55": {
+                    "ranked": {
+                        "beforerank": "Supervisor",
+                        "afterrank": "Delivery Driver",
+                        "type": "Demotion",
+                        "by": 1118551761
+                    }
+                },
+                "12/17/2023 17:34:55": {
+                    "ranked": {
+                        "beforerank": "Delivery Driver",
+                        "afterrank": "Supervisor",
+                        "type": "Promotion",
+                        "notes": "Acting Human Resources Supervisor (Trial) until the 23rd",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0,
+                "11/05/2023 20:56:26": {
+                    "amount": 10,
+                    "startsc": "https://gyazo.com/f23ace6e2b7ad8323e12f1fecd807d53",
+                    "endsc": "https://gyazo.com/603e7fe4c8acfb3a20ce80d9934b160b",
+                    "verified": false
+                },
+                "11/05/2023 23:52:41": {
+                    "amount": 10,
+                    "startsc": "https://gyazo.com/21ffc9c36bf26459ee08ff6c335ebf8a",
+                    "endsc": "https://gyazo.com/8d7d956523d447829aeabafb999741d8",
+                    "verified": false
+                },
+                "12/16/2023 04:24:42": {
+                    "amount": 10,
+                    "startsc": "https://gyazo.com/b5312b46dfaa52656affb9bd280934e2",
+                    "endsc": "https://gyazo.com/dc82bd3032a8022d2cf2f17e9b0e2568",
+                    "verified": false
+                }
+            },
+            "division": "Delivery"
+        },
+        "1789072873": {
+            "employment": {
+                "11/02/2023 18:56:52": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 1118551761
+                    }
+                },
+                "11/02/2023 22:02:52": {
+                    "ranked": {
+                        "beforerank": "Trainee Delivery Driver",
+                        "afterrank": "Delivery Driver",
+                        "type": "Promotion",
+                        "notes": "Completed Training",
+                        "by": 53874678
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "2421075576": {
+            "employment": {
+                "11/02/2023 18:57:01": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 1118551761
+                    }
+                },
+                "11/04/2023 20:08:56": {
+                    "ranked": {
+                        "beforerank": "Trainee Delivery Driver",
+                        "afterrank": "Delivery Driver",
+                        "type": "Promotion",
+                        "by": 53874678
+                    }
+                },
+                "12/10/2023 19:03:05": {
+                    "terminated": {
+                        "type": "General",
+                        "notes": "Left discord",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "2046993822": {
+            "employment": {
+                "11/02/2023 18:57:24": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 1118551761
+                    }
+                },
+                "11/02/2023 23:15:22": {
+                    "ranked": {
+                        "beforerank": "Trainee Delivery Driver",
+                        "afterrank": "Delivery Driver",
+                        "type": "Promotion",
+                        "notes": "Passed exam",
+                        "by": 53874678
+                    }
+                }
+            },
+            "packages": {
+                "total": 0,
+                "11/04/2023 01:25:02": {
+                    "amount": 30,
+                    "startsc": "https://cdn.discordapp.com/attachments/866978361272303628/1170162006632972360/image.png?ex=6558094a&is=6545944a&hm=1f52e53dfad3c93a510b255c22f509400116e35ab58c7497090fb6fb50b92b2c&",
+                    "endsc": "https://cdn.discordapp.com/attachments/866978361272303628/1170165773688393828/image.png?ex=65580ccd&is=654597cd&hm=5652cc9c2c77784a0f18a74aaaf1bae500f8a5f3802dce97fc220ebb00ee1da3&",
+                    "verified": false
+                }
+            },
+            "division": "Delivery"
+        },
+        "2446787800": {
+            "employment": {
+                "11/02/2023 18:57:36": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 1118551761
+                    }
+                },
+                "11/02/2023 20:16:50": {
+                    "ranked": {
+                        "beforerank": "Trainee Delivery Driver",
+                        "afterrank": "Delivery Driver",
+                        "type": "Promotion",
+                        "notes": "Completed Training",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 10,
+                "11/02/2023 20:59:59": {
+                    "amount": 10,
+                    "startsc": "https://gyazo.com/a48f427a69cb25ca8b180aa930ee593c",
+                    "endsc": "https://gyazo.com/a48f427a69cb25ca8b180aa930ee593c",
+                    "verified": 103956751
+                }
+            },
+            "division": "Delivery"
+        },
+        "419478148": {
+            "employment": {
+                "11/02/2023 19:00:21": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 1118551761
+                    }
+                },
+                "12/10/2023 14:41:12": {
+                    "terminated": {
+                        "type": "General",
+                        "notes": "Didn't complete training",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "1424672590": {
+            "employment": {
+                "11/02/2023 19:01:14": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 1118551761
+                    }
+                },
+                "11/02/2023 22:18:59": {
+                    "terminated": {
+                        "type": "General",
+                        "notes": "Left Server",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "87887088": {
+            "employment": {
+                "11/02/2023 19:06:52": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 1118551761
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "31028428": {
+            "employment": {
+                "11/02/2023 19:07:02": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 1118551761
+                    }
+                },
+                "12/23/2023 23:39:36": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 103956751
+                    }
+                },
+                "12/28/2023 20:26:29": {
+                    "ranked": {
+                        "beforerank": "Trainee Delivery Driver",
+                        "afterrank": "Delivery Driver",
+                        "type": "Promotion",
+                        "notes": "Completed Training",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "266160011": {
+            "employment": {
+                "11/02/2023 19:07:09": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 1118551761
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "2224952281": {
+            "employment": {
+                "11/02/2023 19:07:15": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 1118551761
+                    }
+                },
+                "12/10/2023 01:43:49": {
+                    "terminated": {
+                        "type": "General",
+                        "notes": "Didn't complete training/Resignation",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "1867762909": {
+            "employment": {
+                "11/02/2023 19:07:24": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 1118551761
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "1765834506": {
+            "employment": {
+                "11/02/2023 19:07:40": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 1118551761
+                    }
+                },
+                "12/10/2023 14:40:42": {
+                    "terminated": {
+                        "type": "General",
+                        "notes": "Didn't complete training",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "4800523068": {
+            "employment": {
+                "11/02/2023 19:07:47": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 1118551761
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "123889293": {
+            "employment": {
+                "11/02/2023 19:07:53": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 1118551761
+                    }
+                },
+                "11/03/2023 22:23:17": {
+                    "ranked": {
+                        "beforerank": "Trainee Delivery Driver",
+                        "afterrank": "Delivery Driver",
+                        "type": "Promotion",
+                        "notes": "Completed Training",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0,
+                "11/04/2023 00:16:20": {
+                    "amount": 10,
+                    "startsc": "https://media.discordapp.net/attachments/452255305775054849/1170146989430800495/image.png?ex=6557fb4e&is=6545864e&hm=1c3c133818039f91cb949eb830a2e78864af0f15c8e9989a370dd3f89426d51f&=&width=1578&height=986",
+                    "endsc": "https://media.discordapp.net/attachments/452255305775054849/1170152615158489208/image.png?ex=6558008b&is=65458b8b&hm=a94a790775fb55f0fea783cf0f5fe95310910d5d86f1926264f45345f807900b&=&width=1578&height=986",
+                    "verified": false
+                },
+                "11/04/2023 00:38:11": {
+                    "amount": 10,
+                    "startsc": "https://media.discordapp.net/attachments/452255305775054849/1170155581273821205/image.png?ex=6558034f&is=65458e4f&hm=ba9e3d0ef3dcf57d9d48e3ed0beb8248213672756804190d6271d1998f0b1aeb&=&width=1578&height=986",
+                    "endsc": "https://media.discordapp.net/attachments/452255305775054849/1170159957589635092/image.png?ex=65580762&is=65459262&hm=672acd473449d88982d24f920a5aff73b52c9570cf9377964f00d51a6129e306&=&width=1578&height=986",
+                    "verified": false
+                },
+                "11/04/2023 08:25:27": {
+                    "amount": 10,
+                    "startsc": "https://media.discordapp.net/attachments/452255305775054849/1170271571915591750/image.png?ex=65586f55&is=6545fa55&hm=9618040c8126086448665fa65c8d6d241cda20c952c4e0237ed7f38d7eb6af57&=&width=1578&height=986",
+                    "endsc": "https://media.discordapp.net/attachments/452255305775054849/1170277462354165792/image.png?ex=655874d1&is=6545ffd1&hm=3f5676a6ac5788e586082c99f63e1214e25614ada08463e4b36e819c28b3ab2e&=&width=1578&height=986",
+                    "verified": false
+                },
+                "11/05/2023 23:39:24": {
+                    "amount": 10,
+                    "startsc": "https://media.discordapp.net/attachments/452255305775054849/1170861719204139087/image.png?ex=655a94f3&is=65481ff3&hm=0ce763953c93b688b903d29707bdcf92d7df2fd2495b3ed529f48db3c4638ad3&=&width=1578&height=986",
+                    "endsc": "https://media.discordapp.net/attachments/452255305775054849/1170869882397671474/image.png?ex=655a9c8d&is=6548278d&hm=2d4d7e9988b1ef8d984af71012c4fea491591cfd931583cfaaf1bcdb0125f1cb&=&width=1578&height=986",
+                    "verified": false
+                },
+                "12/03/2023 22:34:51": {
+                    "amount": 10,
+                    "startsc": "https://media.discordapp.net/attachments/452255305775054849/1180994777513197568/image.png?ex=657f7218&is=656cfd18&hm=98dda704d381e0b7c458b956c4d688828ff85d5183b35f356c11447d26df9c01&=&format=webp&quality=lossless&width=1578&height=986",
+                    "endsc": "https://media.discordapp.net/attachments/452255305775054849/1181000450061897768/image.png?ex=657f7761&is=656d0261&hm=4086ec957474caf01963da361e784bffac1806591bf1fe7b6549a61a1ac8b7f6&=&format=webp&quality=lossless&width=1578&height=986",
+                    "verified": false
+                },
+                "12/29/2023 07:02:28": {
+                    "amount": 10,
+                    "startsc": "https://media.discordapp.net/attachments/452255305775054849/1190181734256480327/image.png?ex=65a0de1d&is=658e691d&hm=a0056c908d549092ac88cb20bd86d6f6e986976f53a09ff7fb6e26a719367554&=&format=webp&quality=lossless&width=1564&height=978",
+                    "endsc": "https://media.discordapp.net/attachments/452255305775054849/1190187556583772250/image.png?ex=65a0e38a&is=658e6e8a&hm=0e44e948026f558a6950081f31c75834bbf91fae32040a5fe1dbe4983fea8960&=&format=webp&quality=lossless&width=1564&height=978",
+                    "verified": false
+                }
+            },
+            "division": "Delivery"
+        },
+        "572948855": {
+            "employment": {
+                "11/02/2023 19:08:00": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 1118551761
+                    }
+                },
+                "12/10/2023 14:40:21": {
+                    "terminated": {
+                        "type": "General",
+                        "notes": "Didn't complete training",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "290338345": {
+            "employment": {
+                "11/02/2023 19:08:12": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 1118551761
+                    }
+                },
+                "12/10/2023 19:09:34": {
+                    "terminated": {
+                        "type": "General",
+                        "notes": "Left discord (changed name from saIadro)",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "854110559": {
+            "employment": {
+                "11/02/2023 19:08:23": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 1118551761
+                    }
+                },
+                "11/05/2023 22:23:37": {
+                    "ranked": {
+                        "beforerank": "Trainee Delivery Driver",
+                        "afterrank": "Delivery Driver",
+                        "type": "Promotion",
+                        "notes": "Passed Exam",
+                        "by": 53874678
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "83291494": {
+            "employment": {
+                "11/03/2023 14:51:43": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 1118551761
+                    }
+                },
+                "12/10/2023 14:40:32": {
+                    "terminated": {
+                        "type": "General",
+                        "notes": "Didn't complete training",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "645768084": {
+            "employment": {
+                "12/23/2023 23:38:35": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 103956751
+                    }
+                },
+                "12/28/2023 20:56:38": {
+                    "ranked": {
+                        "beforerank": "Trainee Delivery Driver",
+                        "afterrank": "Delivery Driver",
+                        "type": "Promotion",
+                        "notes": "Completed Training",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "49096352": {
+            "employment": {
+                "12/23/2023 23:38:35": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 103956751
+                    }
+                },
+                "12/28/2023 20:23:46": {
+                    "ranked": {
+                        "beforerank": "Trainee Delivery Driver",
+                        "afterrank": "Delivery Driver",
+                        "type": "Promotion",
+                        "notes": "Completed Training",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "222054538": {
+            "employment": {
+                "12/23/2023 23:38:41": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "53735787": {
+            "employment": {
+                "12/23/2023 23:38:45": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 103956751
+                    }
+                },
+                "12/27/2023 21:46:02": {
+                    "ranked": {
+                        "beforerank": "Trainee Delivery Driver",
+                        "afterrank": "Delivery Driver",
+                        "type": "Promotion",
+                        "by": 53874678
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "1284330962": {
+            "employment": {
+                "12/23/2023 23:38:49": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "4783018828": {
+            "employment": {
+                "12/23/2023 23:38:53": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 103956751
+                    }
+                },
+                "12/24/2023 20:21:52": {
+                    "ranked": {
+                        "beforerank": "Trainee Delivery Driver",
+                        "afterrank": "Delivery Driver",
+                        "type": "Promotion",
+                        "by": 53874678
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "1586837241": {
+            "employment": {
+                "12/23/2023 23:38:58": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 103956751
+                    }
+                },
+                "12/24/2023 20:44:43": {
+                    "ranked": {
+                        "beforerank": "Trainee Delivery Driver",
+                        "afterrank": "Delivery Driver",
+                        "type": "Promotion",
+                        "by": 53874678
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "291511577": {
+            "employment": {
+                "12/23/2023 23:39:03": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "465213891": {
+            "employment": {
+                "12/23/2023 23:39:07": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 103956751
+                    }
+                },
+                "12/24/2023 02:23:22": {
+                    "ranked": {
+                        "beforerank": "Trainee Delivery Driver",
+                        "afterrank": "Delivery Driver",
+                        "type": "Promotion",
+                        "notes": "Passed Training",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0,
+                "12/26/2023 06:25:53": {
+                    "amount": 24,
+                    "startsc": "https://prnt.sc/KT1DPCj-L2sL",
+                    "endsc": "https://prnt.sc/1SeIwML30CYJ",
+                    "verified": false
+                },
+                "12/27/2023 23:11:35": {
+                    "amount": 28,
+                    "startsc": "https://gyazo.com/3cb6aa65085fffa7511153a40b8cb55c",
+                    "endsc": "https://prnt.sc/n1lzrtQRsvzM",
+                    "verified": false
+                }
+            },
+            "division": "Delivery"
+        },
+        "4124400265": {
+            "employment": {
+                "12/23/2023 23:39:12": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "1315222989": {
+            "employment": {
+                "12/23/2023 23:39:18": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "3923409841": {
+            "employment": {
+                "12/23/2023 23:39:23": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 103956751
+                    }
+                },
+                "12/24/2023 20:09:22": {
+                    "ranked": {
+                        "beforerank": "Trainee Delivery Driver",
+                        "afterrank": "Delivery Driver",
+                        "type": "Promotion",
+                        "notes": "Passed exam",
+                        "by": 53874678
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "202526926": {
+            "employment": {
+                "12/23/2023 23:39:29": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 103956751
+                    }
+                },
+                "12/24/2023 18:18:40": {
+                    "ranked": {
+                        "beforerank": "Trainee Delivery Driver",
+                        "afterrank": "Delivery Driver",
+                        "type": "Promotion",
+                        "notes": "Completed Training",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0,
+                "12/24/2023 16:06:28": {
+                    "amount": 10,
+                    "startsc": "https://cdn.discordapp.com/attachments/1145597313553813574/1188508564428431441/image.png?ex=659ac7db&is=658852db&hm=12db799f109f26c8ccf766b3d48d692e79d7a507faac5c3fe5b6477d479008a4&",
+                    "endsc": "https://cdn.discordapp.com/attachments/1145597313553813574/1188512957169139762/image.png?ex=659acbf2&is=658856f2&hm=d46a560de836ddd50c1ac8eacfc1cafa315ce8ccd5bd1a39c52dde2a0fa5c6fb&",
+                    "verified": false
+                },
+                "12/26/2023 09:03:47": {
+                    "amount": 10,
+                    "startsc": "https://medal.tv/games/roblox/clips/1LiPr6DaMUIJmN/d1337vdnK59u?invite=cr-MSxwVWQsMTk2ODQ4MzY2LA",
+                    "endsc": "https://medal.tv/games/roblox/clips/1LiX8MJpdRlSHt/d1337ljObbiU?invite=cr-MSx4N1EsMTk2ODQ4MzY2LA",
+                    "verified": false
+                },
+                "12/26/2023 09:20:03": {
+                    "amount": 10,
+                    "startsc": "https://medal.tv/games/roblox/clips/1LiXHTn_IN__uh/d1337nAdM656?invite=cr-MSxBclEsMTk2ODQ4MzY2LA",
+                    "endsc": "https://medal.tv/games/roblox/clips/1Lj1OMS53ReEf8/d13376PQ7jRM?invite=cr-MSx4RkQsMTk2ODQ4MzY2LA",
+                    "verified": false
+                },
+                "12/26/2023 16:29:33": {
+                    "amount": 10,
+                    "startsc": "https://medal.tv/games/roblox/clips/1Llqp7tZkg4_pc/d1337VAwyjKK?invite=cr-MSwzYk4sMTk2ODQ4MzY2LA",
+                    "endsc": "https://medal.tv/games/roblox/clips/1Lly5XD9tzEV3j/d1337dIK3hdq?invite=cr-MSwyMWYsMTk2ODQ4MzY2LA",
+                    "verified": false
+                },
+                "12/26/2023 17:35:26": {
+                    "amount": 10,
+                    "startsc": "https://medal.tv/games/roblox/clips/1Lm2g1RI_42jEa/d1337lZW8F5X?invite=cr-MSxSTDksMTk2ODQ4MzY2LA",
+                    "endsc": "https://medal.tv/games/roblox/clips/1Lm908N77LgrcQ/d1337aZmayRB?invite=cr-MSxGUlYsMTk2ODQ4MzY2LA",
+                    "verified": false
+                },
+                "12/26/2023 18:12:33": {
+                    "amount": 10,
+                    "startsc": "https://medal.tv/games/roblox/clips/1LmaHoL6ibc5HX/d133759OuL05?invite=cr-MSxiU2gsMTk2ODQ4MzY2LA",
+                    "endsc": "https://medal.tv/games/roblox/clips/1LmvO6C2JedK3Z/d1337M8MRzwK?invite=cr-MSwwdFksMTk2ODQ4MzY2LA",
+                    "verified": false
+                },
+                "12/26/2023 19:46:33": {
+                    "amount": 30,
+                    "startsc": "https://medal.tv/games/roblox/clips/1LmYGc4uE4wEuC/d1337RkRkrxr?invite=cr-MSxTQlgsMTk2ODQ4MzY2LA",
+                    "endsc": "https://medal.tv/games/roblox/clips/1LnzhwSHgq9D7w/d1337j3Bu3yu?invite=cr-MSxlVEcsMTk2ODQ4MzY2LA",
+                    "verified": false
+                },
+                "12/27/2023 09:05:13": {
+                    "amount": 30,
+                    "startsc": "https://cdn.discordapp.com/attachments/1145597313553813574/1189482041042010143/image.png?ex=659e527a&is=658bdd7a&hm=916b4b64c27cbf3e6081f241d368648ed9dd7565f8de82511a1a70d389c0632f&",
+                    "endsc": "https://cdn.discordapp.com/attachments/1145597313553813574/1189494076215668807/image.png?ex=659e5daf&is=658be8af&hm=2e1c9c8220366fa011876846bf00aad7e8ecda86fca3661bf992cf29235deaeb&",
+                    "verified": false
+                },
+                "12/27/2023 18:26:22": {
+                    "amount": 30,
+                    "startsc": "https://cdn.discordapp.com/attachments/1145597313553813574/1189618207812751472/image.png?ex=659ed14a&is=658c5c4a&hm=ee32816044774af52a32c870e7c0661ba2b68c1eda164f95f02d0b1a48d650dc&",
+                    "endsc": "https://cdn.discordapp.com/attachments/1145597313553813574/1189635333235679444/image.png?ex=659ee13d&is=658c6c3d&hm=a1632a1081ae64e4c8bd584caeda5278788da6a5e9b7354512432fdb6db23e41&",
+                    "verified": false
+                }
+            },
+            "division": "Delivery"
+        },
+        "69684028": {
+            "employment": {
+                "12/23/2023 23:39:31": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        },
+        "73918207": {
+            "employment": {
+                "12/26/2023 02:48:23": {
+                    "hired": {
+                        "rank": "Trainee Delivery Driver",
+                        "division": "Delivery",
+                        "by": 103956751
+                    }
+                }
+            },
+            "packages": {
+                "total": 0
+            },
+            "division": "Delivery"
+        }
+    },
+    "connections": {
+        "301014178703998987": 103956751,
+        "408798112308658207": 241853519,
+        "698651997880057906": 1118551761,
+        "857754012170453035": 2446787800,
+        "128991595184914432": 368237517,
+        "184713753911230476": 53874678,
+        "325826422524608512": 5491154,
+        "758844276808613948": 606746170,
+        "164100805811634177": 42000967,
+        "373129865509076993": 123889293,
+        "843480671657787402": 2046993822,
+        "237663923418038272": 52404157,
+        "104177815137583104": 23425001,
+        "767141172048822273": 297445903,
+        "289933147330707456": 202526926,
+        "364568584317304837": 53735787,
+        "877185717476933664": 465213891,
+        "1138577144746881189": 3923409841,
+        "891314012988506163": 4783018828
+    }
+}

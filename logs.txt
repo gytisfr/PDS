@@ -1,0 +1,92 @@
+[11/02/2023 18:54:33] klechi (156943005) HIRED BY squnqs2 (1118551761) AS Trainee Delivery Driver IN Delivery EXTRA None
+[11/02/2023 18:54:33] ZhangJinping (62419630) HIRED BY squnqs2 (1118551761) AS Trainee Delivery Driver IN Delivery EXTRA None
+[11/02/2023 18:54:52] MathisMcKnight (297445903) HIRED BY squnqs2 (1118551761) AS Trainee Delivery Driver IN Delivery EXTRA None
+[11/02/2023 18:55:06] ZZ9PluralZAlpha (493786) HIRED BY squnqs2 (1118551761) AS Trainee Delivery Driver IN Delivery EXTRA None
+[11/02/2023 18:55:14] MatthewAxis (510740) HIRED BY squnqs2 (1118551761) AS Trainee Delivery Driver IN Delivery EXTRA None
+[11/02/2023 18:55:20] TealFedoraa (368237517) HIRED BY squnqs2 (1118551761) AS Trainee Delivery Driver IN Delivery EXTRA None
+[11/02/2023 18:55:27] MEXICANSROCK13 (5491154) HIRED BY squnqs2 (1118551761) AS Trainee Delivery Driver IN Delivery EXTRA None
+[11/02/2023 18:55:33] Taykumiee (54038333) HIRED BY squnqs2 (1118551761) AS Trainee Delivery Driver IN Delivery EXTRA None
+[11/02/2023 18:55:42] robbiebeastpro90000 (151952500) HIRED BY squnqs2 (1118551761) AS Trainee Delivery Driver IN Delivery EXTRA None
+[11/02/2023 18:55:59] LuisAntonioSantiago (606746170) HIRED BY squnqs2 (1118551761) AS Trainee Delivery Driver IN Delivery EXTRA None
+[11/02/2023 18:56:11] RickVicario (1695521240) HIRED BY squnqs2 (1118551761) AS Trainee Delivery Driver IN Delivery EXTRA None
+[11/02/2023 18:56:25] Rauv (23425001) HIRED BY squnqs2 (1118551761) AS Trainee Delivery Driver IN Delivery EXTRA None
+[11/02/2023 18:56:41] moneymack9999 (52404157) HIRED BY squnqs2 (1118551761) AS Trainee Delivery Driver IN Delivery EXTRA None
+[11/02/2023 18:56:52] Fake_Swft (1789072873) HIRED BY squnqs2 (1118551761) AS Trainee Delivery Driver IN Delivery EXTRA None
+[11/02/2023 18:57:01] r_eflexsight (2421075576) HIRED BY squnqs2 (1118551761) AS Trainee Delivery Driver IN Delivery EXTRA None
+[11/02/2023 18:57:24] BroomeCounty (2046993822) HIRED BY squnqs2 (1118551761) AS Trainee Delivery Driver IN Delivery EXTRA None
+[11/02/2023 18:57:36] rizzbric (2446787800) HIRED BY squnqs2 (1118551761) AS Trainee Delivery Driver IN Delivery EXTRA None
+[11/02/2023 19:00:21] TacticalDankPatriot (419478148) HIRED BY squnqs2 (1118551761) AS Trainee Delivery Driver IN Delivery EXTRA None
+[11/02/2023 19:01:14] PaulCastelIano (1424672590) HIRED BY squnqs2 (1118551761) AS Trainee Delivery Driver IN Delivery EXTRA None
+[11/02/2023 19:07:15] dataglitchs (2224952281) HIRED BY squnqs2 (1118551761) AS Trainee Delivery Driver IN Delivery EXTRA None
+[11/02/2023 19:07:40] jjkkff12_alt (1765834506) HIRED BY squnqs2 (1118551761) AS Trainee Delivery Driver IN Delivery EXTRA None
+[11/02/2023 19:07:47] Amirvanz (4800523068) HIRED BY squnqs2 (1118551761) AS Trainee Delivery Driver IN Delivery EXTRA None
+[11/02/2023 19:07:53] Mxt_thew (123889293) HIRED BY squnqs2 (1118551761) AS Trainee Delivery Driver IN Delivery EXTRA None
+[11/02/2023 19:08:00] ComradeFaruk (572948855) HIRED BY squnqs2 (1118551761) AS Trainee Delivery Driver IN Delivery EXTRA None
+[11/02/2023 19:08:12] saIadro (290338345) HIRED BY squnqs2 (1118551761) AS Trainee Delivery Driver IN Delivery EXTRA None
+[11/02/2023 19:08:23] Stempiee (854110559) HIRED BY squnqs2 (1118551761) AS Trainee Delivery Driver IN Delivery EXTRA None
+[11/02/2023 19:34:17] Gytis5089 (103956751) 110 PACKAGES APPROVED BY Gytis5089 (103956751)
+[11/02/2023 20:16:50] rizzbric (2446787800) PROMOTED BY Gytis5089 (103956751) FROM Trainee Delivery Driver TO Delivery Driver EXTRA Completed Training
+[11/02/2023 20:59:59] rizzbric (2446787800) 10 PACKAGES APPROVED BY Gytis5089 (103956751)
+[11/02/2023 21:31:23] TealFedoraa (368237517) 10 PACKAGES APPROVED by Gytis5089 (103956751)
+[11/02/2023 22:02:47] ZhangJinping (62419630) PROMOTED BY NinoTheMeano (53874678) FROM Trainee Delivery Driver TO Delivery Driver EXTRA Completed Training
+[11/02/2023 22:02:52] Fake_Swft (1789072873) PROMOTED BY NinoTheMeano (53874678) FROM Trainee Delivery Driver TO Delivery Driver EXTRA Completed Training
+[11/02/2023 22:03:26] TealFedoraa (368237517) PROMOTED BY Gytis5089 (103956751) FROM Trainee Delivery Driver TO Delivery Driver EXTRA Completed Training
+[11/02/2023 22:18:59] PaulCastelIano (1424672590) General TERMINATED BY Gytis5089 (103956751) FOR Left Server
+[11/02/2023 23:15:22] BroomeCounty (2046993822) PROMOTED BY NinoTheMeano (53874678) FROM Trainee Delivery Driver TO Delivery Driver EXTRA Passed exam
+[11/03/2023 00:19:17] SlayerOfUniverse5 (241853519) 60 PACKAGES APPROVED BY Gytis5089 (103956751)
+[11/03/2023 01:54:49] LuisAntonioSantiago (606746170) PROMOTED BY NinoTheMeano (53874678) FROM Trainee Delivery Driver TO Delivery Driver EXTRA Passed exam
+[11/03/2023 03:13:53] Libres (42000967) PROMOTED BY Gytis5089 (103956751) FROM Delivery Driver TO Senior Delivery Driver EXTRA None
+[11/03/2023 03:34:01] klechi (156943005) PROMOTED BY NinoTheMeano (53874678) FROM Trainee Delivery Driver TO Delivery Driver EXTRA passed exam
+[11/03/2023 09:18:02] MEXICANSROCK13 (5491154) PROMOTED BY Gytis5089 (103956751) FROM Trainee Delivery Driver TO Delivery Driver EXTRA Completed Training
+[11/03/2023 09:18:13] Rauv (23425001) PROMOTED BY Gytis5089 (103956751) FROM Trainee Delivery Driver TO Delivery Driver EXTRA Completed Training
+[11/03/2023 14:51:43] akacoolguy96GPT (83291494) HIRED BY squnqs2 (1118551761) AS Trainee Delivery Driver IN Delivery EXTRA None
+[11/03/2023 22:23:17] Mxt_thew (123889293) PROMOTED BY Gytis5089 (103956751) FROM Trainee Delivery Driver TO Delivery Driver EXTRA Completed Training
+[11/04/2023 00:24:53] Taykumiee (54038333) PROMOTED BY Gytis5089 (103956751) FROM Trainee Delivery Driver TO Delivery Driver EXTRA Completed Training
+[11/04/2023 01:28:59] moneymack9999 (52404157) PROMOTED BY Gytis5089 (103956751) FROM Trainee Delivery Driver TO Delivery Driver EXTRA Completed Training
+[11/04/2023 01:38:50] moneymack9999 (52404157) PROMOTED BY squnqs2 (1118551761) FROM Delivery Driver TO Supervisor EXTRA None
+[11/04/2023 01:41:55] moneymack9999 (52404157) DEMOTED BY squnqs2 (1118551761) FROM Supervisor TO Delivery Driver EXTRA None
+[11/04/2023 01:58:59] ZZ9PluralZAlpha (493786) Dishonourable TERMINATED BY Gytis5089 (103956751) FOR Ignorance, Disrespect, Ego
+[11/04/2023 18:07:37] SlayerOfUniverse5 (241853519) PROMOTED BY NinoTheMeano (53874678) FROM Delivery Driver TO Senior Delivery Driver EXTRA None
+[11/04/2023 20:08:56] r_eflexsight (2421075576) PROMOTED BY NinoTheMeano (53874678) FROM Trainee Delivery Driver TO Delivery Driver EXTRA None
+[11/05/2023 04:16:55] MathisMcKnight (297445903) PROMOTED BY Gytis5089 (103956751) FROM Trainee Delivery Driver TO Delivery Driver EXTRA Completed Training
+[11/05/2023 22:23:37] Stempiee (854110559) PROMOTED BY NinoTheMeano (53874678) FROM Trainee Delivery Driver TO Delivery Driver EXTRA Passed Exam
+[12/10/2023 01:43:49] dataglitchs (2224952281) General TERMINATED BY Gytis5089 (103956751) FOR Didn't complete training/Resignation
+[12/10/2023 14:40:21] ComradeFaruk (572948855) General TERMINATED BY Gytis5089 (103956751) FOR Didn't complete training
+[12/10/2023 14:40:32] akacoolguy96GPT (83291494) General TERMINATED BY Gytis5089 (103956751) FOR Didn't complete training
+[12/10/2023 14:40:42] jjkkff12_alt (1765834506) General TERMINATED BY Gytis5089 (103956751) FOR Didn't complete training
+[12/10/2023 14:40:53] MatthewAxis (510740) General TERMINATED BY Gytis5089 (103956751) FOR Didn't complete training
+[12/10/2023 14:41:03] RickVicario (1695521240) General TERMINATED BY Gytis5089 (103956751) FOR Didn't complete training
+[12/10/2023 14:41:12] TacticalDankPatriot (419478148) General TERMINATED BY Gytis5089 (103956751) FOR Didn't complete training
+[12/10/2023 19:03:05] r_eflexsight (2421075576) General TERMINATED BY Gytis5089 (103956751) FOR Left discord
+[12/10/2023 19:09:34] 1Llorens (290338345) General TERMINATED BY Gytis5089 (103956751) FOR Left discord (changed name from saIadro)
+[12/17/2023 05:26:52] squnqs2 (1118551761) DEMOTED BY Gytis5089 (103956751) FROM Manager TO Senior Delivery Driver EXTRA Stepped down (as per request)
+[12/17/2023 17:25:29] Chicken10135 (496998757) DEMOTED BY Gytis5089 (103956751) FROM Manager TO Delivery Driver EXTRA Inactivity
+[12/17/2023 17:34:41] MathisMcKnight (297445903) PROMOTED BY Gytis5089 (103956751) FROM Delivery Driver TO Manager EXTRA Acting Human Resources Manager (Trial) until the 23rd
+[12/17/2023 17:34:55] moneymack9999 (52404157) PROMOTED BY Gytis5089 (103956751) FROM Delivery Driver TO Supervisor EXTRA Acting Human Resources Supervisor (Trial) until the 23rd
+[12/17/2023 17:35:10] NinoTheMeano (53874678) PROMOTED BY Gytis5089 (103956751) FROM Supervisor TO Manager EXTRA Acting Regional Delivery Manager (Trial) until the 24th
+[12/17/2023 23:23:18] robbiebeastpro90000 (151952500) PROMOTED BY Gytis5089 (103956751) FROM Trainee Delivery Driver TO Delivery Driver EXTRA Completed Training
+[12/23/2023 23:38:35] swattastic (645768084) HIRED BY Gytis5089 (103956751) AS Trainee Delivery Driver IN Delivery EXTRA None
+[12/23/2023 23:38:35] Kyrieleys (49096352) HIRED BY Gytis5089 (103956751) AS Trainee Delivery Driver IN Delivery EXTRA None
+[12/23/2023 23:38:41] gravetrauma (222054538) HIRED BY Gytis5089 (103956751) AS Trainee Delivery Driver IN Delivery EXTRA None
+[12/23/2023 23:38:45] 9syn9 (53735787) HIRED BY Gytis5089 (103956751) AS Trainee Delivery Driver IN Delivery EXTRA None
+[12/23/2023 23:38:49] KostasAgnelli (1284330962) HIRED BY Gytis5089 (103956751) AS Trainee Delivery Driver IN Delivery EXTRA None
+[12/23/2023 23:38:53] IHATE_RBLX55 (4783018828) HIRED BY Gytis5089 (103956751) AS Trainee Delivery Driver IN Delivery EXTRA None
+[12/23/2023 23:38:58] railfanner1993 (1586837241) HIRED BY Gytis5089 (103956751) AS Trainee Delivery Driver IN Delivery EXTRA None
+[12/23/2023 23:39:03] notalright (291511577) HIRED BY Gytis5089 (103956751) AS Trainee Delivery Driver IN Delivery EXTRA None
+[12/23/2023 23:39:07] BathBIood (465213891) HIRED BY Gytis5089 (103956751) AS Trainee Delivery Driver IN Delivery EXTRA None
+[12/23/2023 23:39:12] zachhitselfbars (4124400265) HIRED BY Gytis5089 (103956751) AS Trainee Delivery Driver IN Delivery EXTRA None
+[12/23/2023 23:39:18] Thirzter (1315222989) HIRED BY Gytis5089 (103956751) AS Trainee Delivery Driver IN Delivery EXTRA None
+[12/23/2023 23:39:23] 48kGaesyy (3923409841) HIRED BY Gytis5089 (103956751) AS Trainee Delivery Driver IN Delivery EXTRA None
+[12/23/2023 23:39:29] VaIeryGerasimov (202526926) HIRED BY Gytis5089 (103956751) AS Trainee Delivery Driver IN Delivery EXTRA None
+[12/23/2023 23:39:31] BBxBernstorffBanon (69684028) HIRED BY Gytis5089 (103956751) AS Trainee Delivery Driver IN Delivery EXTRA None
+[12/23/2023 23:39:36] 077k (31028428) HIRED BY Gytis5089 (103956751) AS Trainee Delivery Driver IN Delivery EXTRA None
+[12/24/2023 02:23:22] BathBIood (465213891) PROMOTED BY Gytis5089 (103956751) FROM Trainee Delivery Driver TO Delivery Driver EXTRA Passed Training
+[12/24/2023 18:18:40] VaIeryGerasimov (202526926) PROMOTED BY Gytis5089 (103956751) FROM Trainee Delivery Driver TO Delivery Driver EXTRA Completed Training
+[12/24/2023 20:09:22] 48kGaesyy (3923409841) PROMOTED BY NinoTheMeano (53874678) FROM Trainee Delivery Driver TO Delivery Driver EXTRA Passed exam
+[12/24/2023 20:21:52] IHATE_RBLX55 (4783018828) PROMOTED BY NinoTheMeano (53874678) FROM Trainee Delivery Driver TO Delivery Driver EXTRA None
+[12/24/2023 20:44:43] railfanner1993 (1586837241) PROMOTED BY NinoTheMeano (53874678) FROM Trainee Delivery Driver TO Delivery Driver EXTRA None
+[12/26/2023 02:48:23] Reset4K (73918207) HIRED BY Gytis5089 (103956751) AS Trainee Delivery Driver IN Delivery EXTRA None
+[12/27/2023 21:46:02] 9syn9 (53735787) PROMOTED BY NinoTheMeano (53874678) FROM Trainee Delivery Driver TO Delivery Driver EXTRA None
+[12/28/2023 20:23:46] Kyrieleys (49096352) PROMOTED BY Gytis5089 (103956751) FROM Trainee Delivery Driver TO Delivery Driver EXTRA Completed Training
+[12/28/2023 20:26:29] 077k (31028428) PROMOTED BY Gytis5089 (103956751) FROM Trainee Delivery Driver TO Delivery Driver EXTRA Completed Training
+[12/28/2023 20:56:38] swattastic (645768084) PROMOTED BY Gytis5089 (103956751) FROM Trainee Delivery Driver TO Delivery Driver EXTRA Completed Training
